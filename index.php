@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,4 +10,3 @@
     Fadli anjing
 </body>
 </html>
-?>
